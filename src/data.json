@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "name": "Johanna Stevens",
+    "job": "UI/UX Designer",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["johanna.stevens@gmail.com", "johanna.stevens@whiteui.store"],
+    "dial": "j.stevens@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.stevens",
+    "phone": ["439 582 1578", "621 770 7689"],
+    "birthday": "01.01.1998"
+  },
+  {
+    "id": 1,
+    "name": "Nicholas Gordon",
+    "job": "Developer",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["nicholas.gorgon@gmail.com"],
+    "dial": "nicholas.gorgon@gmail.com",
+    "meeting": "http://go.betacall.com/meet/n.gorgon",
+    "phone": ["439 582 1520", "621 770 1289"],
+    "birthday":"03.03.1990"
+  },
+  {
+    "id": 2,
+    "name": "Bradley Malone",
+    "job": "Sales Manager",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Bradley.Malone@gmail.com", "Bradley.Malone@whiteui.store"],
+    "dial": "Malone.Bradley@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Malone",
+    "phone": ["439 582 1178", "621 440 7689"],
+    "birthday": "05.07.1994"
+  },
+  {
+    "id": 3,
+    "name": "Marvin Lambert",
+    "job": "Designer",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Lambert.Lambert@gmail.com", "Marvin.Marvin@whiteui.store"],
+    "dial": "j.Marvin@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Marvin",
+    "phone": ["439 582 1578", "621 770 1589"],
+    "birthday": "08.01.1991"
+  },
+  {
+    "id": 4,
+    "name": "Teresa Lloyd",
+    "job": "PR agent",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Teresa.Teresa@gmail.com", "Lloyd.Lloyd@whiteui.store"],
+    "dial": "j.Lloyd@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Lloyd",
+    "phone": ["419 582 1578", "621 170 7689"],
+    "birthday": "09.09.2001"
+  },
+  {
+    "id": 5,
+    "name": "JFred Haynes",
+    "job": "Support Team",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["JFred.JFred@gmail.com", "JFred.JFred@whiteui.store"],
+    "dial": "j.JFred@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.JFred",
+    "phone": ["229 582 1578", "511 770 7689"],
+    "birthday": "04.04.2001"
+  },
+  {
+    "id": 6,
+    "name": "Rose Peters",
+    "job": "Project Manager",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Rose.Rose@gmail.com", "Peters.Peters@whiteui.store"],
+    "dial": "j.Peters@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Peters",
+    "phone": ["229 582 1578", "511 770 7689"],
+    "birthday": "07.11.1998"
+  },
+  {
+    "id": 7,
+    "name": "Brian Watson",
+    "job": "Developer",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Brian.Brian@gmail.com", "Watson.Watson@whiteui.store"],
+    "dial": "j.Watson@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Watson",
+    "phone": ["229 582 1578", "511 770 7689"],
+    "birthday": "11.12.1996"
+  },
+  {
+    "id": 8,
+    "name": "Hettie Richardson",
+    "job": "Developer",
+    "bio": "When I first got into the advertising, I was looking for the magical combination that would put website into the top search engine rankings",
+    "email": ["Hettie.Hettie@gmail.com", "Richardson.Richardson@whiteui.store"],
+    "dial": "j.Richardson@ymsg.com",
+    "meeting": "http://go.betacall.com/meet/j.Richardson",
+    "phone": ["229 582 1578", "511 770 7689"],
+    "birthday": "13.02.2000"
+  }
+]
